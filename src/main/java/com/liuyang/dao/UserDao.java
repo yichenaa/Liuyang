@@ -11,7 +11,6 @@ import java.util.Date;
 import java.util.List;
 
 
-//@WebServlet(name = "LoginServlet", value = "/login")
 public class UserDao implements IUserDao {
 
     @Override
