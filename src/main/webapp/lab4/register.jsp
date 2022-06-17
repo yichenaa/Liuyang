@@ -10,6 +10,9 @@
         EMail:<input type="email" name="email" placeholder="Email"><br>
         <label>Gender:</label>
         <span>
+
+
+
             &nbsp;
             <input type="radio" style="width: 15px; height: 15px; display:inline;" name="gender" value="male" checked/>&nbsp;Male
             &nbsp;
