@@ -20,7 +20,7 @@
 						</div>
 					</div>
 		<div class="table-responsive col-sm-8">
-		<h2 class="title text-center">User <strong>List</strong></h2> 
+		<h2 class="title text-center">User <strong>List</strong></h2>
 				<table class="table table-condensed">
 					<thead>
 						<tr class="cart_menu">
@@ -29,13 +29,13 @@
 							<td class="description"><strong>Email</strong></td>
 							<td class="description"><strong>Gender</strong></td>
 							<td class="description"><strong>Date of Birth</strong></td>
-							
+
 							<td ></td>
 						</tr>
 					</thead>
 					<tbody>
 					<!-- loop_start -->
-					
+
 						<tr>
 							<td class="cart_description">
 								<p>username</p>
@@ -52,7 +52,7 @@
 							<td class="cart_description">
 								<p >birthDate</p>
 							</td>
-							
+
 							<td class="cart_delete">
 							   <a class="cart_quantity_update" href="<%=basePath %>admin/userEdit?userId=id" ><i class="fa fa-edit"></i></a>
 								<a class="cart_quantity_delete" href="<%=basePath%>admin/userDelete?userId=id" ><i class="fa fa-times"></i></a>
@@ -63,7 +63,7 @@
 		</tbody>
 		</table>
 		<ul class="pagination">
-		
+
 		<li><a href="">&laquo;</a></li>
 							<li class="active"><a href="">1</a></li>
 							<li><a href="">2</a></li>

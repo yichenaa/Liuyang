@@ -17,6 +17,9 @@
     <button id="multiply" type="button">Multiply</button>&nbsp;
     <button id="divide" type="button">Divide</button>&nbsp;
     <button id="computeLength" type="button">Compute Length</button>&nbsp;
+
+
+
     <br>
     <button id="reset" type="button">Reset</button>
 </form>
